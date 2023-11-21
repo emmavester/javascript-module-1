@@ -13,3 +13,6 @@ function sumTillNum(num){
 }
 
 console.log("Sum from 0 to " + n + " is: " + sumTillNum(n));
+
+
+module.exports = {sumTillNum}
